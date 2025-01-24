@@ -84,10 +84,9 @@ python reward-program-exercise.py
 ### Exiting
 
 - When done, choose **3** to exit
-
+```
 ## Example Interaction
 
-```
 Welcome to the Fitness Reward Program!
 
 Choose an option:
