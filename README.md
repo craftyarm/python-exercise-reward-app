@@ -54,11 +54,8 @@ The **Fitness Reward Program** encourages healthy habits by allowing users to lo
 1. **Clone or Download**  
    - Clone the repo:
      ```bash
-     git clone https://github.com/yourusername/fitness-reward-program.git
+     git clone https://github.com/craftyarm/python-exercise-reward-app.git
      ```
-2. **Navigate to the Project Directory**  
-   ```bash
-   cd fitness-reward-program
 
 ## Usage
 
