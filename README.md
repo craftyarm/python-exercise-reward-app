@@ -72,7 +72,7 @@ python reward-program-exercise.py
 
 ### Logging Exercise
 
-- If it's a new user, the system creates a profile with **0 initial points**
+- If it is a new user, the system creates a profile with **0 initial points**
 - Enter the activity name, duration (in minutes), and intensity (1, 2, or 3)
 - **Points Awarded** = `duration × intensity`
 - The system updates total points, displays the user's new total and current badge, and logs the details in a file
