@@ -87,7 +87,7 @@ python reward-program-exercise.py
 
 ## Example Interaction
 
-```plaintext
+```
 Welcome to the Fitness Reward Program!
 
 Choose an option:
