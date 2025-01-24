@@ -75,7 +75,7 @@ python reward-program-exercise.py
 - If it is a new user, the system creates a profile with **0 initial points**
 - Enter the activity name, duration (in minutes), and intensity (1, 2, or 3)
 - **Points Awarded** = `duration × intensity`
-- The system updates total points, displays the user's new total and current badge, and logs the details in a file
+- The system updates total points, displays the users new total and current badge, and logs the details in a file
 
 ### Viewing Summary
 
